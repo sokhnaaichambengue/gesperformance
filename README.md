@@ -117,3 +117,4 @@ Lecture : tout utilisateur connecté. Écriture : voir colonne « Écriture ».
 | GET | `/api/dashboard?annee=&regionId=&type=&domaineId=` | — | Compteurs, scores, classement, évolution, taux d'exécution |
 | GET | `/api/rapports/{collectivites\|collectivite\|comparaison\|evolution}?format=pdf\|excel&annee=&regionId=&typeCollectivite=&collectiviteId=&ids=` | — | Téléchargement du rapport |
 "# gesperformance" 
+"# gestionper" 
